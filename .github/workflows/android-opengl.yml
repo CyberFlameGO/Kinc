@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - master
+    - kmake-android
   pull_request:
     branches:
     - master
